@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"inputs\tinput - submit"
+			],
+			[
+				"in",
+				"inputt\tinput - text"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"scr",
+				"scroll"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"art",
+				"artistRemove"
+			],
+			[
+				"al",
+				"albumRemove"
+			],
+			[
+				"alb",
+				"albumRemove"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"fi",
+				"findByIdAndRemove"
+			],
+			[
+				"A",
+				"Album"
+			],
+			[
+				"ar",
+				"artistRemove"
+			],
+			[
+				"fin",
+				"findById"
+			],
+			[
+				"get",
+				"getArtists〔function〕"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"artists",
+				"artists"
+			],
+			[
+				"sa",
+				"saveArtist"
+			],
+			[
+				"exi",
+				"exists〔argument〕"
+			],
+			[
+				"ex",
+				"existe"
+			],
+			[
+				"image",
+				"imageFile"
+			],
+			[
+				"user",
+				"userUpdated"
+			],
+			[
+				"file",
+				"file_ext"
+			],
+			[
+				"file_",
+				"file_path"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"upda",
+				"updateUser〔function〕"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"su",
+				"surname"
+			],
+			[
+				"jorge",
+				"jorge@gmail.com"
+			],
+			[
+				"req",
+				"req.body"
+			],
+			[
+				"body",
+				"body-parser"
+			],
+			[
+				"admin",
+				"administrar.php"
+			],
+			[
+				"sessi",
+				"session_start"
+			],
+			[
+				"error",
+				"error_reporting〔function〕"
+			],
+			[
+				"iss",
+				"isset〔function〕"
+			],
+			[
+				"categ",
+				"categorias"
+			],
+			[
+				"form",
+				"form\t<form>"
+			],
+			[
+				"cate",
+				"$categoria〔variable〕"
+			],
+			[
+				"che",
+				"checkInput〔function〕"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"sta",
+				"$statement〔variable〕"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"ite",
+				"$item〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INS",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Recaudacion-C/Documents/curso_socket/client/main.js",
+		"/C/Users/Recaudacion-C/Documents/curso_socket/client/index.html",
+		"/C/Users/Recaudacion-C/Documents/curso_socket/server/index.js",
+		"/D/curso_mean_stack/routes/user.js",
+		"/D/curso_mean_stack/index.js",
+		"/D/curso_mean_stack/app.js",
+		"/C/Users/Recaudacion-C/Documents/curso_socket/package.json",
+		"/C/xampp/htdocs/login/templates/header.php",
+		"/C/xampp/htdocs/login/config.php",
+		"/F/login/login/users.sql",
+		"/F/login/login/index.php",
+		"/D/curso_mean_stack/routes/artist.js",
+		"/D/curso_mean_stack/midelware/authenticated.js",
+		"/D/curso_mean_stack/controller/artist.js",
+		"/D/curso_mean_stack/controller/user.js",
+		"/D/curso_mean_stack/models/artist.js",
+		"/D/curso_mean_stack/models/song.js",
+		"/D/curso_mean_stack/models/album.js",
+		"/D/curso_mean_stack/models/user.js",
+		"/D/curso_mean_stack/service/jwt.js",
+		"/D/curso_mean_stack/package.json",
+		"/D/curso_mean_stack/proyecto-curso-mean2.sublime-project",
+		"/C/xampp/htdocs/curso_mean_stack/app.js",
+		"/C/xampp/htdocs/curso_mean_stack/index.js",
+		"/C/xampp/htdocs/curso_mean_stack/package.json",
+		"/C/cygwin64/home/Recaudacion-C/.bash_profile",
+		"/C/xampp/htdocs/invoice/base de datos-modificada11-05-17.sql",
+		"/C/xampp/htdocs/invoice/js/nueva_factura.js",
+		"/C/xampp/htdocs/invoice/ajax/agregar_facturacion.php",
+		"/C/xampp/htdocs/invoice/js/facturas_credito.js",
+		"/C/xampp/htdocs/invoice/js/facturas.js",
+		"/C/xampp/htdocs/invoice/js/productos.js",
+		"/C/xampp/htdocs/invoice/ajax/buscar_productos.php",
+		"/C/xampp/htdocs/invoice/ajax/productos_factura.php",
+		"/C/xampp/htdocs/invoice/ajax/agregar_cotizacion.php",
+		"/C/xampp/htdocs/invoice/ajax/nuevo_producto.php",
+		"/C/xampp/htdocs/invoice/config/conexion.php",
+		"/C/xampp/htdocs/invoice/config/db.php",
+		"/G/xampp/htdocs/invoice/ajax/buscar_productos.php",
+		"/G/xampp/htdocs/invoice/nuevo_producto.php",
+		"/D/mi web/10-05-17/invoice/ajax/buscar_productos.php",
+		"/C/xampp/htdocs/mongodb/index.php",
+		"/C/xampp/htdocs/curso-angular4/index.php",
+		"/C/xampp/htdocs/curso-angular4/package.json",
+		"/C/xampp/htdocs/elsaucenicaragua/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/vendor/freelancer.css",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/insert.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/database.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/view.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/administrar.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/index.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/head.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/login.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/header.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/delete.php",
+		"/D/invoice31-12-2016/index.php",
+		"/D/invoice31-12-2016/navbar2.php",
+		"/D/invoice31-12-2016/panel_de_control.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/index.php-tmp",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/buscar_cat.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/js/categorias.js",
+		"/C/xampp/htdocs/elsaucenicaragua/header.php",
+		"/H/mi web/10-05-17/invoice/nueva_factura.php",
+		"/H/mi web/10-05-17/invoice/nuevo_producto.php",
+		"/C/Users/Recaudacion-C/Downloads/nuevo_producto.php",
+		"/C/xampp/htdocs/burger/admin/update.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/admins/update.php",
+		"/C/Users/Recaudacion-C/Downloads/bootstrap-datetimepicker-master/bootstrap-datetimepicker-master/sample in bootstrap v3/index.html",
+		"/C/xampp/htdocs/burger/admin/index.php",
+		"/C/xampp/htdocs/burger/admin/database.php",
+		"/C/xampp/htdocs/elsaucenicaragua/blog/index.php-tmp"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso_sockets.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

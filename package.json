@@ -1,0 +1,19 @@
+{
+  "name": "curso_socket",
+  "version": "1.0.0",
+  "description": "Curso Nodejs y Socketio",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Castillo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
